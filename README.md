@@ -1,10 +1,14 @@
-# bowling-game
+This code is the result of a coding dojo on wendsday 19th of September
+2012.
 
-A Clojure library designed to ... well, that part is up to you.
+Running the code
+----------
 
-## Usage
+Install 2 [Leiningen](http://leiningen.org/) and simply run
 
-FIXME
+```bash
+lein midje --lazytest
+```
 
 ## License
 
